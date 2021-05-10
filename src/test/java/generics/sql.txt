@@ -1,0 +1,59 @@
+INDEX:Faster retrival of records from the table
+
+CREATE INDEX index_name on tablename;
+ALTER INDEX index_name on tablename;
+
+VIEW:Its a virtual table created from existing table.
+CREATE VIEW viewname as select col1,col2 from tablename where[condition]
+
+NORMALIZATION:Its a database design technique that reduces data redundancy.
+
+1NF(First Normal Form)
+2NF(Second Normal Form)
+3NF(Third Normal Form)
+BCNF(Boyce-Codd Normal Form)
+4NF(Fourth Normal Form)
+5NF(Fifth Normal Form)
+6NF(Sixth Normal Form)
+
+PRIMARY KEY:Which uniquly identifies each row/record in a table
+It doesnt allow duplicate values
+A primary key cannot have NULL Values.
+
+FOREIGN KEY:Used to link two tables together
+A foreign key in one table used to point primary key in another table.
+
+SUBQUERY:Quary within Quary
+
+STORED PROCEDURE?
+
+TRIGGER:A Trigger is a code or program that automatically execute with response to some event on a table
+
+
+Distinct Keyword:Used to get only unique values from column the difference with
+primary key is..it allows one NULL but primary key doesnt allow.
+
+SQL CONSTRAINTS:Which is used to apply certains rulues on table.
+
+NOT NULL
+UNIQUE
+PRIMARY KEY
+FOREIGN KEY
+CHECK
+DEFAULT
+
+JOINS and Its Types.
+Used to combine data or rows from 2 or more tables  based on common field between them.
+
+INNER JOIN
+LEFT JOIN
+RIGHT JOIN
+FULL JOIN
+
+
+  
+
+
+
+
+

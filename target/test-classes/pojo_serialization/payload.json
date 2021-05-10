@@ -1,0 +1,15 @@
+{
+  "instructor" : "rajkumar",
+  "url" : "www.rajkumartesting.com",
+  "course" : {
+    "webAutomation" : [ {
+      "courseTitle" : "selenium",
+      "price" : 5000
+    } ],
+    "mobileAutomation" : [ {
+      "courseTitle" : "appium",
+      "price" : 6000
+    } ]
+  },
+  "linkedin" : "rajkumar89_linkedin"
+}
